@@ -5,9 +5,9 @@ void main()
     int count = 5;
     for ( i = 0; i < count; i++)
     {
-        for ( j = 5; j > i; j--)
+        for ( j = 0; j <= i; j++)
         {
-            printf(" %d",j);
+            printf(" %d",i);
         }
         printf("\n");
     }
