@@ -1,0 +1,30 @@
+function is bunch of statement
+
+Types:- 
+
+1 Built in:- 
+-> Predefine function
+ ex. printf(), scanf(), strcpy(), strrev();
+
+---------------------------------------------------------
+
+2 UDF(user define function)
+->which was define by user
+    {float get(int no)}
+  //{return_type nameofthefunction (parameter) }
+
+    a)without return without parameter
+    b)without return_type with parameter
+    c)with return without parameter
+    d)with return type with parameter
+
+e.recursion(function call it self)
+--------------------------------
+return_type UDF_name (parameter)
+for ex.,
+int data (void)
+{
+	return 5;
+}
+
+return keyword is used to return the value/function to the function 
