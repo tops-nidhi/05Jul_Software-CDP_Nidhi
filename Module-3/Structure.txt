@@ -1,0 +1,6 @@
+Structure is user define data type.
+
+->In the structure you can define multiple value of multiple data type.
+->Structure was define by struct keyword.
+->variable which was define inside the structure's body is known as data member.
+->You can define the data member inside the structure but can't inisialize int.

@@ -9,4 +9,4 @@ void main()
     printf("Enter the value of no:");
     scanf("%d",&no);
     data(no);
-}
+} 
