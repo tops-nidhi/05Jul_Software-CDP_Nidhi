@@ -1,0 +1,16 @@
+OOPs concept:
+
+1.Class
+    ->Class is a collection of data member and member function.
+                                OR
+    ->Class is a blue print of the object.
+    ->Variable define inside the class known as data member
+    ->Function define inside the class known as a member function
+-------------------------------------------------------------------
+2.Object
+    ->Object is a instance of the class.
+
+3.Inheritance
+4.Encapsualation
+5.Abstraction
+6.Polymorphism
